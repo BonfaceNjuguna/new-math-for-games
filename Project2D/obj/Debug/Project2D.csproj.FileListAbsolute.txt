@@ -1,0 +1,7 @@
+D:\AIE\mathsforgamesprojects\Mathsforgames\mathforgames\RaylibStarterCS\Project2D\bin\Debug\Project2D.exe.config
+D:\AIE\mathsforgamesprojects\Mathsforgames\mathforgames\RaylibStarterCS\Project2D\bin\Debug\Project2D.exe
+D:\AIE\mathsforgamesprojects\Mathsforgames\mathforgames\RaylibStarterCS\Project2D\bin\Debug\Project2D.pdb
+D:\AIE\mathsforgamesprojects\Mathsforgames\mathforgames\RaylibStarterCS\Project2D\obj\Debug\Project2D.csprojAssemblyReference.cache
+D:\AIE\mathsforgamesprojects\Mathsforgames\mathforgames\RaylibStarterCS\Project2D\obj\Debug\Project2D.csproj.CoreCompileInputs.cache
+D:\AIE\mathsforgamesprojects\Mathsforgames\mathforgames\RaylibStarterCS\Project2D\obj\Debug\Project2D.exe
+D:\AIE\mathsforgamesprojects\Mathsforgames\mathforgames\RaylibStarterCS\Project2D\obj\Debug\Project2D.pdb
